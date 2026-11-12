@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --background-white-color: #f1f1f1;
+  --background-black-color: #121212;
+  --font-size: 16px;
+}
+
+.background-black {
+  background-color: var(--background-black-color);
+}
+
+.background-white {
+  background-color: var(--background-white-color);
+}
